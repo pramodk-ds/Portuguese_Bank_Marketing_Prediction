@@ -5,7 +5,7 @@ __pycache__/
 *.pyd
 *.pkl
 
-# Jupyter Notebook
+# Google Collab
 .ipynb_checkpoints
 *.nbconvert.ipynb
 
